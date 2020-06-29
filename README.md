@@ -1,4 +1,4 @@
-# Minebuster-ai
+# Minesweeper-ai
 Minebuster algorithm that picks the most optimal tile to sweep. Compile Runner.py to run the game
 
 ## Template
