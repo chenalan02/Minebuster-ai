@@ -6,3 +6,6 @@ This algorithm relies on a knowledge base full of sentences. Each sentence conta
 
 ## Template
 This was an assignment in which I built upon a template from the Harvard CS50 online course. It can be found at https://cs50.harvard.edu/ai/2020/projects/1/minesweeper/ 
+
+![Minesweeper](https://github.com/chenalan02/Minesweeper-ai-Harvard-cs50ai/blob/master/Minesweeper.JPG)
+![Minesweeper Start Screen](https://github.com/chenalan02/Minesweeper-ai-Harvard-cs50ai/blob/master/Minesweeper%20start%20screen.JPG)
